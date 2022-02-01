@@ -1,12 +1,9 @@
-# week-6-assignment-2
+week-7-assignment
+Currency Exchange Uygulaması
+Dolar, Euro, İngiliz Sterlinive Türk Lirası arasında dönüşümler yapılacak.
 
-## Tic Tac Toe Uygulaması
+Yeni bir component oluşturup onun üzerinden uygulamayı geliştirmeniz gerekiyor.
 
-- 3x3, 9 kutudan oluşan bir yapı tasarlanacak. 
+Kur değerlerini kendiniz belirleyebilirsiniz
 
-- Yatay, dikey veya çapraz bir şekilde x-x-x veya o-o-o 3lüsü oluşturan taraf kazanan oyuncu olacak. 3lü oluşmazsa oyun berabere sonuçlanacak. Oyun sonucu bir metin ile bildirilmeli.
-
-- *(html,css ve javascript kullanılarak yapılacak)*
-- *(querySelector ile html elementlerine erişim sağlayabilirsiniz)*
-- *(style, classList ile stillerle oynayabilirsiniz)*
-- *(addEventListener ile kullanıcı etkileşimlerini yakalayabilirsiniz)*
+Ödev kontrolü için sıkıntı yaşanmaması adına herkes güncel angular sürümünü kullanırsa çok güzel olur :)
