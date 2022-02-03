@@ -1,3 +1,5 @@
+# Dovizcik
+
 # week-7-assignment
 
 ## Currency Exchange Uygulaması
@@ -6,7 +8,6 @@
 
 - Yeni bir component oluşturup onun üzerinden uygulamayı geliştirmeniz gerekiyor.
 
+- _Kur değerlerini kendiniz belirleyebilirsiniz_
 
-- *Kur değerlerini kendiniz belirleyebilirsiniz*
-
-- *Ödev kontrolü için sıkıntı yaşanmaması adına herkes güncel angular sürümünü kullanırsa çok güzel olur :)*
+- _Ödev kontrolü için sıkıntı yaşanmaması adına herkes güncel angular sürümünü kullanırsa çok güzel olur :)_
